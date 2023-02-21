@@ -14,5 +14,6 @@ public class GitTest {
         System.out.println(" hot-fix test002 !");
         System.out.println(" git push test001 !");
         System.out.println(" git pull test002 !");
+        System.out.println("在线github提交commit0221--b");
     }
 }
